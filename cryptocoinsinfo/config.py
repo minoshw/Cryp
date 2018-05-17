@@ -1,9 +1,9 @@
 import os
 
 # the token of the @CryptoCoinsInfoBot
-TOKEN_BOT = 'put_here'
+TOKEN_BOT = '522701018:AAFVnFzfkYnJyBwzRR9gsKBRyvgmF60Pdpc'
 
-YOUR_TELEGRAM_ALIAS = 'put_here'
+YOUR_TELEGRAM_ALIAS = 'https://fiverr-res.cloudinary.com/images/t_medium7,q_auto,f_auto/gigs/111619177/original/86b091b280437fe2b8b37e2d5b60020f58447cc3/build-telegram-bot-for-answer-your-customers-questions.png'
 
 TIME_INTERVAL = 150
 
